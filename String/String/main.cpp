@@ -33,12 +33,12 @@ public:
 
 };
 
-String::String()
-{
-    rep = new char[1];
-    strcpy(rep, "");
-    len = 0;
-}
+//String::String()
+//{
+//    rep = new char[1];
+//    strcpy(rep, "");
+//    len = 0;
+//}
 
 String::String(char* s)
 {
