@@ -5,19 +5,31 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< Updated upstream
 	<string>A8AB5D25-C42E-4C3D-BE54-79707A8627D2</string>
+=======
+	<string>3F47909B-38C4-4149-9BD0-3FD79F33DDDA</string>
+>>>>>>> Stashed changes
 	<key>IDESourceControlProjectName</key>
 	<string>String</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+<<<<<<< Updated upstream
 		<key>84B0F27E-32B7-42E3-B787-89C6F63C6B69</key>
+=======
+		<key>C801C3EF-EECE-4F58-99D0-C84A067A5ACB</key>
+>>>>>>> Stashed changes
 		<string>https://github.com/termyuan/ymy.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>String/String.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+<<<<<<< Updated upstream
 		<key>84B0F27E-32B7-42E3-B787-89C6F63C6B69</key>
+=======
+		<key>C801C3EF-EECE-4F58-99D0-C84A067A5ACB</key>
+>>>>>>> Stashed changes
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +37,22 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
+<<<<<<< Updated upstream
 	<string>84B0F27E-32B7-42E3-B787-89C6F63C6B69</string>
+=======
+	<string>C801C3EF-EECE-4F58-99D0-C84A067A5ACB</string>
+>>>>>>> Stashed changes
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< Updated upstream
 			<string>84B0F27E-32B7-42E3-B787-89C6F63C6B69</string>
+=======
+			<string>C801C3EF-EECE-4F58-99D0-C84A067A5ACB</string>
+>>>>>>> Stashed changes
 			<key>IDESourceControlWCCName</key>
 			<string>ymy</string>
 		</dict>
